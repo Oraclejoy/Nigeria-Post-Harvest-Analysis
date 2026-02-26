@@ -1,76 +1,162 @@
-NIGERIAN POST-HARVEST LOSS REPORT
-Executive Summary
-This report analyzes post-harvest losses (PHL) across Nigeria using regional, environmental,
-and logistical data. The average PHL is 19.3%, with rice recording the highest PHL
-percentage among all crops. Notably, PHL remains high despite training, indicating the need
-for more comprehensive interventions.
-Technology use, especially hermetic bags, significantly lowers spoilage, while cold storage
-paradoxically results in higher spoilage, likely due to poor environmental control. Crates
-remain the most effective storage method. Trucks record the lowest spoilage among
-transport modes. Seasonality, environmental factors like temperature and humidity, and
-regional differences significantly impact spoilage and revenue loss. Notably, 2024 recorded
-the lowest average PHL_Percent compared to previous year, showing some improvements
-despite seasonal spikes.
-Dashboard
-Key Findings
-1. Production and Spoilage
-• Average PHL: 19.3%
-• Most affected regions: North East, South West, North West
-• Top crop loss: Rice has the highest average PHL%
-• Lowest loss crop: Yam
-• PHL after training: Remains high, suggesting training alone is insufficient
-• Technology: Use of hermetic bags results in the lowest PHL%; lack of tech leads to
-highest PHL%
-• Seasonality: Dry season shows highest PHL% and revenue loss
-2. Storage Methods
-• Best method: Crates have the lowest average PHL%
-• Cold storage: Despite expectations, results in higher spoilage when not properly
-managed
-• Polyethylene bags and open sheds show significantly higher spoilage
-• Recommended: Crates over cold storage unless temperature and humidity are strictly
-managed
-3. Logistics and Transport
-• Best transport method: Trucks have the lowest spoilage
-• Worst: Boats show the highest spoilage amount
-• Short distances have high spoilage due to poor handling
-• Optimal: Truck and proper handling regardless of distance
-4. Market and Revenue
-• Highest revenue loss crop: Pepper
-• Market access effect: Moderate access has higher revenue loss than poor access
-• Market prices: Pepper has the highest market price across regions; Cassava has Lowest
-market price
-• Market access does not significantly reduce revenue loss
-5. Youth Involvement & Training
-• Youth involvement: No significant difference in PHL%
-• Training: No significant difference in PHL%
-• Conclusion: Youth involvement and training alone are not sufficient
-6. Environmental Factors
-• Humidity: 60–69% shows Highest spoilage; 30–39% has Lowest spoilage
-• Temperature: Spoilage increases sharply from 20°C to 40°C
-• Best storage performance under 20–24°C
-• Crates & cold storage perform best under controlled conditions
-Identifying Best Practices
-Ideal Combination:
-- Crop: Cassava or Yam
-- Storage: Crates
-- Transport: Truck
-- Region: North Central
-- Tech: Hermetic bags
-- Environment: Low humidity (30–39%), low temperature (20–24°C)
-Recommendations
-Storage
-• Prioritize crates for all regions.
-• Use cold storage only when temperature and humidity can be tightly controlled.
-• Avoid polyethylene bags and open sheds.
-Transport
-• Promote the use of trucks due to lower spoilage rates.
-• Improve packaging and handling techniques during transit.
-Technology
-• Encourage the use of hermetic bags.
-• Avoid relying solely on training or youth participation without supportive technology.
-Environmental Management
-• Monitor and manage storage temperature and humidity.
-• Educate farmers on affordable methods to reduce environmental spoilage risks.
-Policy & Investment
-• Direct resources toward physical infrastructure (e.g., crates, ventilation).
-• Promote awareness on best practices, especially during dry season peaks.
+🇳🇬 Nigerian Post-Harvest Loss (PHL) Analysis Report
+📌 Executive Summary
+![Nigeria-Post-Harvest-Analysis](picture2.png.png)  
+
+This project analyzes Post-Harvest Loss (PHL) across Nigeria using regional, environmental, storage, logistics, and market data.
+
+Average PHL: 19.3%
+
+Most affected crop: Rice
+
+Lowest loss crop: Yam
+
+Most affected regions: North East, South West, North West
+
+Lowest average PHL recorded: 2024 (indicating gradual improvement)
+
+Despite training initiatives, PHL remains high, suggesting that training alone is insufficient.
+
+Technology adoption — especially hermetic bags — significantly reduces spoilage. However, cold storage paradoxically shows higher spoilage when environmental conditions are poorly controlled.
+
+Seasonality, humidity, temperature, and transport methods strongly influence spoilage and revenue loss.
+
+📊 Dashboard Insights
+1️⃣ Production & Spoilage
+
+Average PHL: 19.3%
+
+Top loss crop: Rice
+
+Lowest loss crop: Yam
+
+High-risk regions: North East, South West, North West
+
+Training impact: No significant reduction in PHL
+
+Technology impact:
+
+Hermetic bags → Lowest PHL%
+
+No technology → Highest PHL%
+
+Seasonality: Dry season records highest PHL% and revenue loss
+
+2️⃣ Storage Methods
+Storage Method	Performance
+✅ Crates	Lowest PHL% (Best)
+⚠️ Cold Storage	High spoilage if poorly managed
+❌ Polyethylene Bags	High spoilage
+❌ Open Sheds	High spoilage
+
+Recommendation:
+Use crates as the default storage solution.
+Cold storage should only be used when temperature and humidity are strictly controlled.
+
+3️⃣ Logistics & Transport
+
+✅ Best transport method: Trucks (lowest spoilage)
+
+❌ Worst transport method: Boats (highest spoilage)
+
+Short distances still show high spoilage due to poor handling.
+
+Proper packaging and handling matter more than distance.
+
+4️⃣ Market & Revenue
+
+Highest revenue loss crop: Pepper
+
+Highest market price crop: Pepper
+
+Lowest market price crop: Cassava
+
+Moderate market access surprisingly shows higher revenue loss than poor access.
+
+Market access alone does not significantly reduce revenue loss.
+
+5️⃣ Youth Involvement & Training
+
+No significant difference in PHL% with youth involvement.
+
+No significant difference in PHL% after training.
+
+Conclusion:
+Training and youth engagement must be supported with infrastructure and technology to be effective.
+
+6️⃣ Environmental Factors
+🌡 Temperature
+
+Spoilage increases sharply from 20°C to 40°C
+
+Best performance: 20–24°C
+
+💧 Humidity
+
+Highest spoilage: 60–69%
+
+Lowest spoilage: 30–39%
+
+📦 Storage + Environment
+
+Crates and properly managed cold storage perform best under controlled conditions.
+
+🏆 Identified Best Practice Combination
+
+The lowest spoilage occurs under the following ideal conditions:
+
+Crop: Cassava or Yam
+
+Storage: Crates
+
+Transport: Truck
+
+Region: North Central
+
+Technology: Hermetic bags
+
+Environment:
+
+Humidity: 30–39%
+
+Temperature: 20–24°C
+
+📌 Recommendations
+🏗 Storage
+
+Prioritize crates across all regions.
+
+Use cold storage only with proper environmental control.
+
+Avoid polyethylene bags and open sheds.
+
+🚛 Transport
+
+Promote truck transportation.
+
+Improve packaging and handling techniques.
+
+🧪 Technology
+
+Encourage hermetic bag adoption.
+
+Avoid relying solely on training or youth involvement without technology support.
+
+🌍 Environmental Management
+
+Monitor and regulate storage temperature and humidity.
+
+Educate farmers on low-cost environmental control strategies.
+
+🏛 Policy & Investment
+
+Invest in physical infrastructure (crates, ventilation systems).
+
+Increase awareness of best practices, especially during dry season peaks.
+
+📈 Project Outcome
+
+This analysis highlights that:
+
+Infrastructure and technology adoption have greater impact on reducing PHL than training or market access alone.
+
+Targeted investment in storage, transport, and environmental control will significantly reduce Nigeria’s post-harvest losses and improve agricultural profitability.
