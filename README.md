@@ -1,6 +1,6 @@
 🇳🇬 Nigerian Post-Harvest Loss (PHL) Analysis Report
 📌 Executive Summary
-![Nigeria-Post-Harvest-Analysis](picture2.png)  
+![Nigeria-Post-Harvest-Analysis](Picture2.png)  
 
 This project analyzes Post-Harvest Loss (PHL) across Nigeria using regional, environmental, storage, logistics, and market data.
 
@@ -24,7 +24,7 @@ Seasonality, humidity, temperature, and transport methods strongly influence spo
 1️⃣ Production & Spoilage
 
 
-![Nigerian Post-Harvest Loss Dashboard](Picture2.png)
+![Production and spoilage](Picture3.png)
 Average PHL: 19.3%
 
 Top loss crop: Rice
