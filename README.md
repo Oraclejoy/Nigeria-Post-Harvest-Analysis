@@ -23,6 +23,8 @@ Seasonality, humidity, temperature, and transport methods strongly influence spo
 📊 Dashboard Insights
 1️⃣ Production & Spoilage
 
+
+![Nigerian Post-Harvest Loss Dashboard](picture2.png)
 Average PHL: 19.3%
 
 Top loss crop: Rice
