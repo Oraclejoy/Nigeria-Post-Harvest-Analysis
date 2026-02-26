@@ -1,6 +1,6 @@
 🇳🇬 Nigerian Post-Harvest Loss (PHL) Analysis Report
 📌 Executive Summary
-![Nigeria-Post-Harvest-Analysis](picture2.png.png)  
+![Nigeria-Post-Harvest-Analysis](picture2.png)  
 
 This project analyzes Post-Harvest Loss (PHL) across Nigeria using regional, environmental, storage, logistics, and market data.
 
